@@ -1,6 +1,8 @@
-# fxdialogs
+# PHD-Reports-Privacy-Policy
 
-This flutter package provides designed dialog box with progress indicators.
+Your privacy is important to us. It is PHD Reports' policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across and other apps we own and operate.
+
+This policy is effective as of 16 December 2021 and was last updated on 16 December 2021.
 
 ## Simple Usage
 To use this plugin, add `fxdialogs` as a
